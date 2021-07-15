@@ -726,6 +726,10 @@ transform: translateY(0%);
 }
 
 .modal-form-btn{
+    font-size: 16px;
+    line-height: 1.87;
+    font-weight: 700;
+    letter-spacing: 0.06em;
     margin: 0 auto;
     width: 200px;
     height: 50px;
