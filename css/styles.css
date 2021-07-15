@@ -431,6 +431,41 @@ activities{
     color: #ffffff;
     margin-bottom: 20px;
 }
+.footer-form-block{
+    display: flex;
+}
+.footer-form-input{
+    width: 358px;
+    height: 50px;
+    background-color: inherit;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    box-sizing: border-box;
+    box-shadow: (0px 4px 4px rgba(0, 0, 0, 0.15));
+    border-radius: 4px;
+    margin-right: 12px;
+    color: #ffffff;
+    padding-left: 16px;
+    cursor: pointer;
+}
+.footer-submit-btn{
+    padding: 0;
+    width: 200px;
+    height: 50px;
+    background-color: var(--hover-color);
+    color: #ffffff;
+    font-size: 16px;
+    line-height: 1.87;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.footer-submit-icon{
+    margin-left: 10px;
+}
 
 /*портфолио */
 /*filters*/
